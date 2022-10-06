@@ -365,6 +365,7 @@ Other
 }
 .container-home-slider-1  h1{
 	font-size: 30px;
+	font-family: 'Segoe UI Regular';
 }
 .container-home-slider-2 {
 
@@ -374,4 +375,17 @@ Other
 }
 .container-home-slider-2 img {
 	height: 50px;
+}
+.container-home-slider-3 {
+	bottom: 100px;
+}
+.container-home-slider-3 h1 {
+	font-family: 'Segoe UI Regular';
+	bottom: 100px;
+	font-size: 30px;
+}
+.img-container img {
+	height: 260px;
+	width: auto;
+	margin-bottom: 20px;
 }
