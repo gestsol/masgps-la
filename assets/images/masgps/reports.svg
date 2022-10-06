@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.349" height="58.597" viewBox="0 0 48.349 58.597">
+  <g id="Grupo_37" data-name="Grupo 37" transform="translate(-1623.718 -4621.817)">
+    <g id="file" transform="translate(1623.718 4621.817)">
+      <path id="Trazado_100" data-name="Trazado 100" d="M10.883,5.662A1.224,1.224,0,0,0,9.662,6.883V50.831a1.224,1.224,0,0,0,1.221,1.221H45.065a1.224,1.224,0,0,0,1.221-1.221V20.312H36.52a4.882,4.882,0,0,1-4.883-4.883V5.662Zm24.416,0v9.766a1.224,1.224,0,0,0,1.221,1.221h9.766a1.222,1.222,0,0,0-.354-.818L36.117,6.016A1.222,1.222,0,0,0,35.3,5.662ZM6,6.883A4.882,4.882,0,0,1,10.883,2H35.25A4.888,4.888,0,0,1,38.7,3.428l9.815,9.815A4.888,4.888,0,0,1,49.948,16.7V50.831a4.882,4.882,0,0,1-4.883,4.883H10.883A4.882,4.882,0,0,1,6,50.831Z" transform="translate(-6 2.883)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Trazado_101" data-name="Trazado 101" d="M0,0H48.349V58.6H0Z" transform="translate(0)" fill="none"/>
+    </g>
+    <line id="Línea_9" data-name="Línea 9" x2="25.261" transform="translate(1633.083 4651.116)" fill="none" stroke="#eedd1b" stroke-linecap="round" stroke-width="2"/>
+    <line id="Línea_10" data-name="Línea 10" x2="25.156" transform="translate(1633.092 4659.761)" fill="none" stroke="#eedd1b" stroke-linecap="round" stroke-width="2"/>
+    <line id="Línea_11" data-name="Línea 11" x2="10" transform="translate(1633.97 4668.537)" fill="none" stroke="#eedd1b" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg id="battery_2_charge" data-name="battery 2 charge" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path id="Trazado_30" data-name="Trazado 30" d="M31.3,30.656h7.989l-4.993,7L25.977,49.315V35.987H17.989L31.3,17.328ZM25.977,14.662H15.326V51.981H41.954V14.662H31.3V9.331H25.977ZM20.651,9.331V6.666A2.672,2.672,0,0,1,23.314,4H33.966a2.672,2.672,0,0,1,2.663,2.666V9.331h7.989A2.672,2.672,0,0,1,47.28,12v42.65a2.672,2.672,0,0,1-2.663,2.666H12.663A2.672,2.672,0,0,1,10,54.646V12a2.672,2.672,0,0,1,2.663-2.666Z" transform="translate(3.36 1.344)" fill="#fff"/>
+  <path id="Trazado_31" data-name="Trazado 31" d="M0,0H64V64H0Z" fill="none"/>
+  <path id="Trazado_157" data-name="Trazado 157" d="M42.162,48.774h7.989l-4.993,7L36.836,67.433V54.1H28.848L42.162,35.446Z" transform="translate(-7.499 -16.774)" fill="#eedd1b"/>
+</svg>

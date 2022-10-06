@@ -1,0 +1,8 @@
+<svg id="truck" xmlns="http://www.w3.org/2000/svg" width="72.385" height="72.385" viewBox="0 0 72.385 72.385">
+  <path id="Trazado_79" data-name="Trazado 79" d="M28.128,47.208h18.1V14.032A6.03,6.03,0,0,0,40.192,8H10.032A6.03,6.03,0,0,0,4,14.032v30.16a3.025,3.025,0,0,0,3.016,3.016h3.016" transform="translate(2.032 4.064)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Trazado_80" data-name="Trazado 80" d="M50.1,40.128V28.064A12.061,12.061,0,0,0,38.032,16H32V43.144H47.08A3.025,3.025,0,0,0,50.1,40.128Z" transform="translate(16.257 8.128)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Trazado_81" data-name="Trazado 81" d="M30,34a9.048,9.048,0,0,0,18.1,0Z" transform="translate(15.24 17.273)" fill="none" stroke="#eedd1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Trazado_82" data-name="Trazado 82" d="M46.032,28H40" transform="translate(20.321 14.224)" fill="none" stroke="#eedd1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Trazado_83" data-name="Trazado 83" d="M26.1,37.048A9.048,9.048,0,1,1,17.048,28,9.055,9.055,0,0,1,26.1,37.048Z" transform="translate(4.064 14.224)" fill="none" stroke="#eedd1b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path id="Trazado_84" data-name="Trazado 84" d="M0,0H72.385V72.385H0Z" fill="none"/>
+</svg>
