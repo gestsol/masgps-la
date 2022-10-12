@@ -77,3 +77,11 @@ h1 {
 .bg-footer {
     background: #2F2A48;
 }
+.logo-footer-text {
+    border-left: 5px solid white;
+    height: 100%;
+}
+.logo-footer img {
+    margin-top: auto;
+    margin-bottom: auto;
+}
