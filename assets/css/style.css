@@ -58,3 +58,16 @@ h1 {
     font-size: 50px;
     text-transform: none;
 }
+.navbar-top a {
+    margin: 0 10px;
+    color: white;
+}
+
+.btn-buy-header, .btn-platform-header {
+    background-color: #CCBD17;
+    border: none;
+    color:#2D67B1 !important;
+    font-weight: 600;
+    border-radius: 100px;
+
+}
