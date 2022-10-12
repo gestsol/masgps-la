@@ -71,3 +71,6 @@ h1 {
     border-radius: 100px;
 
 }
+.navbar-dark #header-wrap.fixed-header {
+    background: black !important;
+}
