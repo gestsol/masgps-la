@@ -74,3 +74,6 @@ h1 {
 .navbar-dark #header-wrap.fixed-header {
     background: black !important;
 }
+.bg-footer {
+    background: #2F2A48;
+}
