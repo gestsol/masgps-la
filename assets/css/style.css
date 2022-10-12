@@ -1,0 +1,47 @@
+.card-pricing .card-body {
+    padding: 10px 5px !important;
+}
+.card-pricing .card-body .badge {
+    width: 100%;
+    background: transparent;
+    --bs-badge-color: transparent;
+    box-shadow: none !important;
+    font-weight: bold;
+}
+.card-pricing .card-body .d-flex {
+    text-align: center;
+    background: #263238;
+    padding: 5px 10px;
+}
+.card-pricing .card-body .d-flex p {
+    display: block;
+    margin-bottom: 0;
+    color: white;
+    width: 100%;
+}
+
+.card-pricing .card-body .card-bottom {
+    background: #263238;
+    padding: 5px 10px;
+    border-bottom-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
+}
+.card-pricing {
+    border-radius: 50px !important;
+}
+.btn-executive {
+    background-color: #FFF;
+    border: none;
+    color:#2D67B1;
+    font-weight: 600;
+    border-radius: 100px;
+    margin-bottom: 20px
+}
+.btn-buy {
+    background-color: #CCBD17;
+    border: none;
+    color:#2D67B1;
+    font-weight: 600;
+    border-radius: 100px;
+    margin-bottom: 20px;
+}
