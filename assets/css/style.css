@@ -85,3 +85,12 @@ h1 {
     margin-top: auto;
     margin-bottom: auto;
 }
+.info-section .img-container img {
+    width: 100% !important;
+    height: auto !important;
+}
+.footer-rss i {
+    font-size: 35px;
+    color: white;
+    margin: 0 10px
+}
